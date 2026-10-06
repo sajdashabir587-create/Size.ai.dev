@@ -1,2 +1,2 @@
-# Size.ai.dev
+# aize.ai.dev
 An powerful ai
